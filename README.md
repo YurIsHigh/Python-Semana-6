@@ -1,10 +1,6 @@
 # Sistema Bancário Orientado a Objetos em Python
 
-Este projeto implementa um modelo bancário utilizando conceitos avançados de **Programação Orientada a Objetos (POO)** em Python, incluindo Abstração, Encapsulamento, Herança, Polimorfismo e Métodos Especiais (Dunder).
-
-====
-
-## 1. Diagrama de Classes (Mermaid)
+## Diagrama de Classes (Mermaid)
 
 ```mermaid
 classDiagram
